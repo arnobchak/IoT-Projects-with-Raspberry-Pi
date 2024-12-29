@@ -61,8 +61,8 @@ This repository showcases three primary IoT projects using the Raspberry Pi 3 Mo
 3. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/iot-projects-rpi3.git
-   cd iot-projects-rpi3
+   git clone https://github.com/arnobchak/IoT-Projects-with-Raspberry-Pi.git
+   cd IoT-Projects-with-Raspberry-Pi
    ```
 
 4. **Run Python Programs:**
